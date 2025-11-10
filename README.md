@@ -4,7 +4,7 @@ Inspired by Gruvbox theme and earthly colors. Intended to be balanced in contras
 
 ## Sample
 
-![Sample dark](./sample.png)
+![Sample](https://raw.githubusercontent.com/ahmednooor/sweet-root-theme/refs/heads/main/sample.png)
 
 ## License
 

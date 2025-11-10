@@ -1,6 +1,7 @@
 {
   "name": "sweet-root-theme",
-  "version": "0.1.0",
+  "displayName": "Sweet Root Dark Theme",
+  "version": "0.2.0",
   "icon": "icon.png",
   "publisher": "AhmedNoorEAlam",
   "private": false,
