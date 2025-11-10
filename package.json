@@ -1,0 +1,41 @@
+{
+  "name": "sweet-root-theme",
+  "version": "0.1.0",
+  "icon": "icon.png",
+  "publisher": "AhmedNoorEAlam",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmednooor/sweet-root-theme"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "dark",
+    "theme",
+    "sweet root",
+    "gruvbox inspired",
+    "warm color palette",
+    "earthy",
+    "earthly"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sweet Root Dark",
+        "uiTheme": "vs-dark",
+        "path": "./Sweet_Root_Dark.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherId": "AhmedNoorEAlam",
+    "publisherDisplayName": "Ahmed Noor E Alam"
+  }
+}
